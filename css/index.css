@@ -1,0 +1,81 @@
+.tip{
+    width: 90%;
+    color: #5eb721;
+    margin:0px auto;            
+    padding-left: 5px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+hr{
+   border:0.1px solid #aaa;
+   width: 90%;
+
+   margin: 0px auto;
+}
+.nav{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #5eb721;
+}
+.tip>span{
+    color: red;
+}
+.m_input{
+    position: relative;
+	display: block;
+	padding:10px;
+    font-size: 15px;
+    margin:0px auto;
+	width: 90%;
+	border: none;
+	border-radius: 0;
+	background: #f0f0f0;
+	color: #222222;
+	font-weight: bold;
+	
+	-webkit-appearance: none; /* for box shadows to show on iOS */
+    }
+    .m_submit{
+        width: 90%;
+     margin: 0px auto;
+     margin-top: 10px;
+        
+    }
+    .m_submit>button{
+        border: 0;
+        border-radius: 4px;
+        height: 40px;
+        width: 48%;
+        font-size: 18px;
+        float: left;
+        color: white;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #5eb721;
+     }
+     footer{
+         position: relative;
+         display: block;
+         width: 100%;
+         margin: 0px auto;
+         margin-top: 12px;
+         margin-bottom: 10px;
+         
+     }
+     footer>p{
+         width: 60%;
+         font-size: 11px;
+         position: relative;
+         display: block;
+         color: #b5b4b4;
+         float: left;text-align: right;
+     }
+     footer>img{
+         float: left;
+         width: 15px;
+         height: 15px;
+     }
+   
